@@ -1,5 +1,13 @@
+//プロジェクト名：Arduino超音波センサー搭載自動制御ロボットカー
+// 開発者：大好洪史
+// 開発日：08/02/2023~08/17/2023
+// 使用言語：C++
+// Status：Complete
+
+
 #include "pitches.h";
 
+// 音階を配列にて格納
 int melody[] = {
   NOTE_C5, NOTE_D5, NOTE_E5, NOTE_F5, NOTE_G5, NOTE_A5, NOTE_B5, NOTE_C6
 };
